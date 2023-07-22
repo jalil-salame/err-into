@@ -1,0 +1,11 @@
+[package]
+name = "err-into"
+description = "Extension traits for core::convert::Into to use with Results and Options"
+version = "1.0.0"
+edition = "2015"
+license = "MIT"
+keywords = ["error", "error-handling", "no-std"]
+categories = ["no-std", "no-std::no-alloc"]
+authors = ["Jalil David Salamé Messina"]
+repository = "https://github.com/jalil-salame/err-into"
+rust-version = "1.6.0"
